@@ -54,5 +54,3 @@ let quotes = [
 
  
 ];
-
-console.log(quotes);
